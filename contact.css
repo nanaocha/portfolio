@@ -53,3 +53,15 @@ p {
   margin-bottom: 15px;
   line-height: 1.5;
 }
+
+
+.center-container {
+  text-decoration: none;
+  color: #0077B5; /* Set the color to the same blue as the icon */
+}
+
+
+.center-container a {
+  text-decoration: none;
+  color: #2d3336; /* Set the color to the same blue as the icon */
+}
