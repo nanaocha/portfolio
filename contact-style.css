@@ -1,0 +1,72 @@
+.contact-details {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.contact-icon {
+  font-size: 20px;
+  margin-right: 10px;
+}
+
+.contact-link {
+  color: #222323;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+.contact-link:hover {
+  color: #888888;
+  text-decoration: underline;
+}
+
+.container {
+  font-family: 'Gruppo', cursive;
+  background-color: #f2f2f2;
+  color: #333;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: justify;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.center-container {
+  text-align: center;
+}
+
+h2 {
+  color: #222323;
+  font-size: 25px;
+  margin-bottom: 20px;
+  padding: 15px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+  p {
+    font-size: 19px;
+    color: #000000;
+    margin-bottom: 15px;
+    line-height: 1.5;
+    font-family: 'Gruppo', Arial, sans-serif; /* Keep the original font */
+    transition: color 0.3s ease-in-out; /* Add a smooth color transition */
+  }
+  
+
+.center-container {
+  text-decoration: none;
+  color: #0077B5; /* Set the color to the same blue as the icon */
+}
+
+
+.center-container a {
+  text-decoration: none;
+  color: #2d3336; /* Set the color to the same blue as the icon */
+}
+
+
+ 
